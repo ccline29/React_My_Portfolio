@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useState, useEffect } from 'react';
 import ApolloClient, { gql } from 'apollo-boost';
 import './OpenSource.css';
@@ -9,7 +10,7 @@ function OpenSource() {
 
     useEffect(() => {
         getRepoData();
-    }, []);
+    }, [getRepoData]);
 
     function getRepoData(): void {
         // I don't know well about this part...
@@ -28,7 +29,7 @@ function OpenSource() {
             .query({
                 query: gql`
                 {
-                user(login: "ikalli") {
+                user(login: "") {
                     pinnedItems(first: 6, types: [REPOSITORY]) {
                         totalCount
                         edges {
@@ -74,7 +75,7 @@ function OpenSource() {
                     return <GithubCard repos={repo} key={i} />;
                 })}
             </div>
-            <a href="https://github.com/Ikalli" target="_blank" rel="noopener noreferrer">More Projects</a>
+            <a href="https://github.com/ccline29" target="_blank" rel="noopener noreferrer">More Projects</a>
         </div>
     );
 }

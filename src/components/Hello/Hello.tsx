@@ -13,7 +13,7 @@ function Hello() {
 				<div className="wrapper">
 					<div className="text-title">
 						{greeting.title}&nbsp;
-						<span className="hello-emoji">👋</span>
+						<span role= "img" aria-label ="hello-emoji">👋</span>
 					</div>
 					<div className="role">
 						<span>{greeting.role}</span>
