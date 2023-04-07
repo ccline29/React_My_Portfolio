@@ -20,10 +20,10 @@ function Header() {
 		<header className="header header--section">
 			<div className="inner clearfix">
 
-				<div className="header-logo">
-					<span></span>
+			<div className="header-logo">
+					<span>&lt;</span>
 					<a href="#">{greeting.username}</a>
-					<span></span>
+					<span>/&gt;</span>
 				</div>
 				
 				<div className="icon">
