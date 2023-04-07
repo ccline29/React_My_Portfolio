@@ -6,14 +6,10 @@ export const greeting = {
 	subTitle: emoji("subtitle"),
 	role: "Web Developer Starter",
 	resumeLink: "Your resume link... google drive or something else",
-	// IMPORTANT
-	// If you don't want to show this, change view to false. DO NOT DELETE!
 	view: false
 };
 
 export const socialMediaLinks = {
-	// IMPORTANT
-	// if you don't have, change value to blank or false!! DO NOT DELETE!
 	github: 'https://github.com/ccline29',
 	linkedin: 'www.linkedin.com/in/chris-cline-9315',
 	email: 'clinechris29@gmail.com',
@@ -34,9 +30,6 @@ export const skills = {
 		emoji("Node.js to write server-side code using Javascript."),
 		emoji("REACT to create a single-page application."),
 	],
-	// IMPORTANT
-	// You need to find className for font-awesome icon
-	// Go to https://fontawesome.com/ and search icon
 	lists: [
 		{fontAwesome: "fab fa-html5", text: "HTML5", proficiency: 80},
 		{fontAwesome: "fab fa-css3-alt", text: "CSS3", proficiency: 70},
