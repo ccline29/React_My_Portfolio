@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ReactFolio/static/css/main.4ba628e4.chunk.css",
-    "main.js": "/ReactFolio/static/js/main.3f32a6dc.chunk.js",
-    "main.js.map": "/ReactFolio/static/js/main.3f32a6dc.chunk.js.map",
-    "runtime-main.js": "/ReactFolio/static/js/runtime-main.b2dab739.js",
-    "runtime-main.js.map": "/ReactFolio/static/js/runtime-main.b2dab739.js.map",
-    "static/js/2.f42686ba.chunk.js": "/ReactFolio/static/js/2.f42686ba.chunk.js",
-    "static/js/2.f42686ba.chunk.js.map": "/ReactFolio/static/js/2.f42686ba.chunk.js.map",
-    "index.html": "/ReactFolio/index.html",
-    "precache-manifest.9367e18bafe2beb169c0876a2c50a2c6.js": "/ReactFolio/precache-manifest.9367e18bafe2beb169c0876a2c50a2c6.js",
-    "service-worker.js": "/ReactFolio/service-worker.js",
-    "static/css/main.4ba628e4.chunk.css.map": "/ReactFolio/static/css/main.4ba628e4.chunk.css.map",
-    "static/js/2.f42686ba.chunk.js.LICENSE.txt": "/ReactFolio/static/js/2.f42686ba.chunk.js.LICENSE.txt",
-    "static/media/sad-icon.png": "/ReactFolio/static/media/sad-icon.b88924d5.png",
-    "static/media/your photo.png": "/ReactFolio/static/media/your photo.9b185f3b.png"
+    "main.css": "/React_My_Portfolio/static/css/main.4ba628e4.chunk.css",
+    "main.js": "/React_My_Portfolio/static/js/main.11e81e39.chunk.js",
+    "main.js.map": "/React_My_Portfolio/static/js/main.11e81e39.chunk.js.map",
+    "runtime-main.js": "/React_My_Portfolio/static/js/runtime-main.fee73f82.js",
+    "runtime-main.js.map": "/React_My_Portfolio/static/js/runtime-main.fee73f82.js.map",
+    "static/js/2.ea9007f7.chunk.js": "/React_My_Portfolio/static/js/2.ea9007f7.chunk.js",
+    "static/js/2.ea9007f7.chunk.js.map": "/React_My_Portfolio/static/js/2.ea9007f7.chunk.js.map",
+    "index.html": "/React_My_Portfolio/index.html",
+    "precache-manifest.9a4974da0e536d86193d03b07591dc89.js": "/React_My_Portfolio/precache-manifest.9a4974da0e536d86193d03b07591dc89.js",
+    "service-worker.js": "/React_My_Portfolio/service-worker.js",
+    "static/css/main.4ba628e4.chunk.css.map": "/React_My_Portfolio/static/css/main.4ba628e4.chunk.css.map",
+    "static/js/2.ea9007f7.chunk.js.LICENSE.txt": "/React_My_Portfolio/static/js/2.ea9007f7.chunk.js.LICENSE.txt",
+    "static/media/sad-icon.png": "/React_My_Portfolio/static/media/sad-icon.b88924d5.png",
+    "static/media/your photo.png": "/React_My_Portfolio/static/media/your photo.9b185f3b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2dab739.js",
-    "static/js/2.f42686ba.chunk.js",
+    "static/js/runtime-main.fee73f82.js",
+    "static/js/2.ea9007f7.chunk.js",
     "static/css/main.4ba628e4.chunk.css",
-    "static/js/main.3f32a6dc.chunk.js"
+    "static/js/main.11e81e39.chunk.js"
   ]
 }
