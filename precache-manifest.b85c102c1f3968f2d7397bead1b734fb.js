@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66a63e183f9d009204f45654bdc336b3",
+    "revision": "22b0ba8f424248f497733e8aa1e4ebbe",
     "url": "/ccline29/React_My_Portfolio/index.html"
   },
   {
-    "revision": "235172afed28f80fd10e",
+    "revision": "415ee649c71ae3b41acb",
     "url": "/ccline29/React_My_Portfolio/static/css/main.4ba628e4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ccline29/React_My_Portfolio/static/js/2.f42686ba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "235172afed28f80fd10e",
-    "url": "/ccline29/React_My_Portfolio/static/js/main.a5f293b3.chunk.js"
+    "revision": "415ee649c71ae3b41acb",
+    "url": "/ccline29/React_My_Portfolio/static/js/main.5477fe9d.chunk.js"
   },
   {
     "revision": "82020b04e771d3b1dfde",
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ccline29/React_My_Portfolio/static/media/sad-icon.b88924d5.png"
   },
   {
-    "revision": "b9d7d448a09d6aacb45d21aab2c6fd53",
-    "url": "/ccline29/React_My_Portfolio/static/media/your photo.b9d7d448.png"
+    "revision": "9b185f3b9dd8c92fd374146832bfe86c",
+    "url": "/ccline29/React_My_Portfolio/static/media/your photo.9b185f3b.png"
   }
 ]);
