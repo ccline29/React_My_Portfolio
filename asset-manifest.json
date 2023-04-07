@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ccline29/React_My_Portfolio/static/css/main.4ba628e4.chunk.css",
-    "main.js": "/ccline29/React_My_Portfolio/static/js/main.0662559b.chunk.js",
-    "main.js.map": "/ccline29/React_My_Portfolio/static/js/main.0662559b.chunk.js.map",
-    "runtime-main.js": "/ccline29/React_My_Portfolio/static/js/runtime-main.62b80cf8.js",
-    "runtime-main.js.map": "/ccline29/React_My_Portfolio/static/js/runtime-main.62b80cf8.js.map",
-    "static/js/2.f42686ba.chunk.js": "/ccline29/React_My_Portfolio/static/js/2.f42686ba.chunk.js",
-    "static/js/2.f42686ba.chunk.js.map": "/ccline29/React_My_Portfolio/static/js/2.f42686ba.chunk.js.map",
-    "index.html": "/ccline29/React_My_Portfolio/index.html",
-    "precache-manifest.074e08f63c0f975a3a25db3478baa6c4.js": "/ccline29/React_My_Portfolio/precache-manifest.074e08f63c0f975a3a25db3478baa6c4.js",
-    "service-worker.js": "/ccline29/React_My_Portfolio/service-worker.js",
-    "static/css/main.4ba628e4.chunk.css.map": "/ccline29/React_My_Portfolio/static/css/main.4ba628e4.chunk.css.map",
-    "static/js/2.f42686ba.chunk.js.LICENSE.txt": "/ccline29/React_My_Portfolio/static/js/2.f42686ba.chunk.js.LICENSE.txt",
-    "static/media/sad-icon.png": "/ccline29/React_My_Portfolio/static/media/sad-icon.b88924d5.png",
-    "static/media/your photo.png": "/ccline29/React_My_Portfolio/static/media/your photo.9b185f3b.png"
+    "main.css": "/ReactFolio/static/css/main.4ba628e4.chunk.css",
+    "main.js": "/ReactFolio/static/js/main.0662559b.chunk.js",
+    "main.js.map": "/ReactFolio/static/js/main.0662559b.chunk.js.map",
+    "runtime-main.js": "/ReactFolio/static/js/runtime-main.b2dab739.js",
+    "runtime-main.js.map": "/ReactFolio/static/js/runtime-main.b2dab739.js.map",
+    "static/js/2.f42686ba.chunk.js": "/ReactFolio/static/js/2.f42686ba.chunk.js",
+    "static/js/2.f42686ba.chunk.js.map": "/ReactFolio/static/js/2.f42686ba.chunk.js.map",
+    "index.html": "/ReactFolio/index.html",
+    "precache-manifest.4aae18d4832b4432d655a425fdd32974.js": "/ReactFolio/precache-manifest.4aae18d4832b4432d655a425fdd32974.js",
+    "service-worker.js": "/ReactFolio/service-worker.js",
+    "static/css/main.4ba628e4.chunk.css.map": "/ReactFolio/static/css/main.4ba628e4.chunk.css.map",
+    "static/js/2.f42686ba.chunk.js.LICENSE.txt": "/ReactFolio/static/js/2.f42686ba.chunk.js.LICENSE.txt",
+    "static/media/sad-icon.png": "/ReactFolio/static/media/sad-icon.b88924d5.png",
+    "static/media/your photo.png": "/ReactFolio/static/media/your photo.9b185f3b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.62b80cf8.js",
+    "static/js/runtime-main.b2dab739.js",
     "static/js/2.f42686ba.chunk.js",
     "static/css/main.4ba628e4.chunk.css",
     "static/js/main.0662559b.chunk.js"
