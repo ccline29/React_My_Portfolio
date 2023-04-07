@@ -52,14 +52,14 @@ export const experience = {
 	title: "Work Experience",
 	lists: [
 		{
-			date: "2018.03~",
-			company: "Google",
-			role: "Front-End Developer",
+			date: "2022.October",
+			company: "UofT Web Development BootCamp",
+			role: "Student",
 		},
 		{
-			date: "test",
-			company: "test",
-			role: "test",
+			date: "2006-Current",
+			company: "The Home Depot",
+			role: "Merchandise Execution Manager",
 		},
 	],
 	view: true

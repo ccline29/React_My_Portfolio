@@ -8,7 +8,7 @@ function Footer() {
             <div className="inner">
 
                 <div className="footer-content">
-                    <p>{emoji("Make By Chris")}</p>
+                    <p>{emoji("Made By Chris")}</p>
                     
                 </div>
 
